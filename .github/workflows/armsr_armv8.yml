@@ -119,5 +119,5 @@ jobs:
     - name: Delete old releases
       uses: mgz0227/delete-older-releases@master
       with:
-        keep_latest: 8
+        keep_latest: 6
         delete_tags : true
