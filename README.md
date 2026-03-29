@@ -2,8 +2,7 @@
 本固件适配斐讯 N1 旁路网关（不具备 PPPoE、WiFi 相关功能）。<br>
 固件包含下列 luci-app：<br>
 [luci-app-amlogic](https://github.com/ophub/luci-app-amlogic)：晶晨宝盒<br>
-[luci-app-daed](https://github.com/QiuSimons/luci-app-daed)：基于eBPF分流的代理工具<br>
-[luci-app-passwall](https://github.com/Openwrt-Passwall/openwrt-passwall)：传统代理工具<br>
+[luci-app-passwall](https://github.com/Openwrt-Passwall/openwrt-passwall)：科学上网<br>
 luci-app-dockerman：Docker管理<br>
 luci-app-samba4：NAS网络共享<br>
 ***
